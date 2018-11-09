@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">KaiqueTavaresRM79173</string>
+    <string name="desenvolvido">Developed by Kaique Tavares RM 79173</string>
+    <string name="pesquisar">Search</string>
+    <string name="voltar">Back</string>
+    <string name="titulo_pesquisa">Enter the zip code to be searched</string>
+    <string name="logradouro">Public place:</string>
+    <string name="bairro">District:</string>
+    <string name="cidade">City:</string>
+    <string name="estado">State:</string>
+</resources>
